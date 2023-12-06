@@ -53,7 +53,7 @@
                                             <td>
                                                 <div class="btn-group" role="group" aria-label="Basic mixed styles example">
                                                     <a a href="form_atualiza_cliente.php?id=<?php echo $dados['id_cliente']; ?>" class="btn btn-primary" >Atualizar</a>
-                                                    <a a href="Confirmação_apagar.php?id=<?php echo $dados['id_cliente']; ?>" class="btn btn-danger" >Apagar</a>                                                    
+                                                    <a a href="confirma_apagar.php?id=<?php echo $dados['id_cliente']; ?>" class="btn btn-danger" >Apagar</a>                                                    
                                                 </div>
                                             </td>
                                         <?php
